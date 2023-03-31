@@ -1,6 +1,6 @@
 Name:		texlive-easyformat
 Version:	44543
-Release:	1
+Release:	2
 Summary:	Easily add boldface, italics and smallcaps
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easyformat
