@@ -3,7 +3,7 @@ Version:	44543
 Release:	2
 Summary:	Easily add boldface, italics and smallcaps
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easyformat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/easyformat
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easyformat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easyformat.doc.r%{version}.tar.xz
